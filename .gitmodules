@@ -1,0 +1,4 @@
+[submodule "g100"]
+	path = g100
+	url = https://github.com/scrum-1/2016fallcp_ag100
+	branch = gh-pages
